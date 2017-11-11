@@ -13,6 +13,8 @@ For developers of Acorn computers and emulators
 
 [Arlet](https://github.com/Arlet)
 
+[Phillip Pearson](https://github.com/google/myelin-acorn-electron-hardware)
+
 Here's an unsorted list of projects, all related to Acorn's microcomputers.
 
 [beebasm](https://github.com/tom-seddon/beebasm)
